@@ -1,0 +1,11 @@
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\bin\Debug\Wurzelrechner.exe.config
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\bin\Debug\Wurzelrechner.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\bin\Debug\Wurzelrechner.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\obj\Debug\Wurzelrechner.csproj.AssemblyReference.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\obj\Debug\Wurzelrechner.csproj.SuggestedBindingRedirects.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\obj\Debug\Wurzelrechner.Form1.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\obj\Debug\Wurzelrechner.Properties.Resources.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\obj\Debug\Wurzelrechner.csproj.GenerateResource.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\obj\Debug\Wurzelrechner.csproj.CoreCompileInputs.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\obj\Debug\Wurzelrechner.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Wurzelrechner\Wurzelrechner\obj\Debug\Wurzelrechner.pdb
